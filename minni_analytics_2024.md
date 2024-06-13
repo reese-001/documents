@@ -182,10 +182,12 @@ Example: RagFlow
 Wissal Jawad @ Element
 
 - Topic was classifying incident tickets into predefined categories. Used llama 2 with the appropriate prompting to automate this process. Dataset was a public domain set of about 26 incidents. The slides were presented in quick succession which made it difficult to take notes, so at some point I took pictures – which are included below.
-- ![Slide 1](image1.jpg)
-- ![Slide 2](image2.jpg)
-- ![Slide 3](image3.jpg)
-- ![Slide 4](image4.jpg)
+- ![Slide 1](images/20240607_141033.jpg)
+- ![Slide 2](images/20240607_141045.jpg)
+- ![Slide 3](images/20240607_141127.jpg)
+- ![Slide 4](images/20240607_141152.jpg)
+- ![Slide 5](images/20240607_141351.jpg)
+- ![Slide 6](images/20240607_141522.jpg)
 
 ## Bridging the Gap - Meghan Miller
 
